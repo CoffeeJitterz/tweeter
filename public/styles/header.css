@@ -1,0 +1,11 @@
+header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 400;
+  background-color: #d6b200;
+  background-image: url("https://www.transparenttextures.com/patterns/cross-stripes.png");
+  padding-top: 150px;
+
+}
