@@ -1,4 +1,5 @@
-/* COLOUR PALLETE */
+@import 'palette';
+
 header {
   display: flex;
   flex-direction: column;
@@ -6,17 +7,21 @@ header {
   justify-content: center;
   width: 30vw;
   height: 30vw;
-  background-color: #ffe667;
+  background-color: $header;
   background-image: url("https://www.transparenttextures.com/patterns/cross-stripes.png");
   padding: 10em;
   margin: 6em;
+ 
+
 }
 
 /* Tablet Style */
+
 @media only screen and (max-width: 1024px) {
-  header {
-    width: 100%;
-    padding: 0em;
-    margin: 0em;
-  }
+ header {
+   width: 100%;
+   padding: 0em;
+   margin: 0em;
+ }
 }
+

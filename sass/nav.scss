@@ -1,4 +1,7 @@
-/* COLOUR PALLETE */
+@import 'palette';
+
+
+
 nav {
   display: flex;
   flex-direction: row;
@@ -18,7 +21,6 @@ nav {
   justify-content: flex-end;
   font-family: Bungee;
 }
-
 .write_a_new {
   display: flex;
   flex-direction: column;
@@ -27,12 +29,13 @@ nav {
   font-weight: 100;
 }
 
+
 #slide-button {
-  color: #54abf3;
+  color: $blue;
 }
 
 #slide-button:hover {
-  color: #afecff;
+  color: $light_blue;
 }
 
 #slide-button.down {
@@ -40,16 +43,16 @@ nav {
 }
 
 /* Tablet Style */
+
 @media only screen and (max-width: 1024px) {
   nav {
     background-color: transparent;
-  }
+ }
+#slide-button {
+  color:chocolate;
+}
 
-  #slide-button {
-    color: chocolate;
-  }
-
-  #slide-button:hover {
-    color: darkred;
-  }
+#slide-button:hover {
+  color:darkred
+}
 }

@@ -1,13 +1,13 @@
-/* COLOUR PALLETE */
+@import 'palette';
+
 /* tweet */
 article {
   border-style: solid;
   padding: 1.5em;
-  margin: 5px;
+  margin: 5px
 }
-
 article:hover {
-  box-shadow: 5px 5px grey;
+  box-shadow: 5px 5px $grey;;
 }
 
 .user {
@@ -21,14 +21,15 @@ article:hover {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
+  
 }
 
 .email {
-  color: grey;
+  color: $grey;
 }
 
 hr {
-  height: 3px;
+  height:3px;
   width: auto;
   background-color: black;
   border: none;
@@ -41,13 +42,14 @@ footer {
 }
 
 .fa-flag:hover {
-  color: #afecff;
+  color: $light_blue;
 }
 
 .fa-retweet:hover {
-  color: #afecff;
+  color: $light_blue;
 }
 
 .fa-heart:hover {
-  color: #afecff;
+  color: $light_blue;
 }
+

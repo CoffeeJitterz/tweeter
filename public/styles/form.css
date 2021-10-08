@@ -1,0 +1,73 @@
+/* COLOUR PALLETE */
+main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 50vw;
+  margin-top: 6em;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: transparent;
+}
+
+textarea {
+  display: flex;
+  width: 50vw;
+  border: none;
+  overflow: auto;
+  outline: none;
+  resize: none;
+  overflow: auto;
+  border-bottom: solid;
+  padding: 1em;
+  margin-top: 2em;
+  background-color: transparent;
+}
+
+.button-counter {
+  display: flex;
+  justify-content: space-between;
+  font-family: Bungee, sans-serif;
+  padding: 1.5em;
+}
+
+button {
+  color: white;
+  background-color: #54abf3;
+  margin: 1.5em;
+  width: 10vw;
+  height: 4vw;
+}
+
+button:hover {
+  background-color: #afecff;
+}
+
+.negCounter {
+  color: #8b1616;
+}
+
+/* Top Button */
+#topButton {
+  position: fixed;
+  bottom: 1.5em;
+  right: 1.5em;
+}
+
+#topButton.active {
+  background-color: transparent;
+}
+
+@media only screen and (max-width: 1024px) {
+  main {
+    width: 95vw;
+  }
+
+  textarea {
+    width: 95vw;
+  }
+}

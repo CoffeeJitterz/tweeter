@@ -1,0 +1,23 @@
+@import 'palette';
+/* error */
+
+#error {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  background-color: $background_color;
+  border: $caution_red;
+  margin-top: 1em;
+  padding: 15px;
+
+}
+
+#errorMessage {
+  color: $caution_red;
+  font-weight: 600;
+}
+
+.fa-radiation {
+  color: $caution_red;
+}

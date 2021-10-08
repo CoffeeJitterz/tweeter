@@ -1,0 +1,21 @@
+/* COLOUR PALLETE */
+/* error */
+#error {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #f4f1ec;
+  border: #8b1616;
+  margin-top: 1em;
+  padding: 15px;
+}
+
+#errorMessage {
+  color: #8b1616;
+  font-weight: 600;
+}
+
+.fa-radiation {
+  color: #8b1616;
+}
