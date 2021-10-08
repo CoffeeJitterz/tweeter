@@ -15,3 +15,17 @@ This repository is the starter code for the project: Students will fork and clon
 
 - Express
 - Node 5.10.x or above
+- Body-parser
+- Chance
+- timeago.js
+
+- Install all dependencies (using the `npm install` command).
+- Run the development web server using the `node express_server.js` command.
+
+## Final Product
+
+!["screenshot description"](https://github.com/CoffeeJitterz/tinyapp/blob/master/docs/create_urls_page.png?raw=true)
+
+!["screenshot description"](https://github.com/CoffeeJitterz/tinyapp/blob/master/docs/registration_page.png?raw=true)
+
+!["screenshot description"](https://github.com/CoffeeJitterz/tinyapp/blob/master/docs/urls_page.png?raw=true)

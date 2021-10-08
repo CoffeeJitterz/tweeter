@@ -4,7 +4,7 @@ $(() => {
   //dissapear
   $("#topButton").hide();
   $(window).scroll(() => {
-    if ($(window).scrollTop() > 1000) {
+    if ($(window).scrollTop() > 200) {
       $("#topButton").show();
     } else {
       $("#topButton").hide();
