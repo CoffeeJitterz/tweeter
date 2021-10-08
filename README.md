@@ -24,8 +24,10 @@ This repository is the starter code for the project: Students will fork and clon
 
 ## Final Product
 
-!["screenshot description"](https://github.com/CoffeeJitterz/tinyapp/blob/master/docs/create_urls_page.png?raw=true)
+!["screenshot description"](https://github.com/CoffeeJitterz/tweeter/blob/master/docs/tweet-box_1.png?raw=true)
 
-!["screenshot description"](https://github.com/CoffeeJitterz/tinyapp/blob/master/docs/registration_page.png?raw=true)
+!["screenshot description"](https://github.com/CoffeeJitterz/tweeter/blob/master/docs/tweet-box_2.png?raw=true)
 
-!["screenshot description"](https://github.com/CoffeeJitterz/tinyapp/blob/master/docs/urls_page.png?raw=true)
+!["screenshot description"](https://github.com/CoffeeJitterz/tweeter/blob/master/docs/tweet-box_3.png?raw=true)
+
+!["screenshot description"](!["screenshot description"](https://github.com/CoffeeJitterz/tweeter/blob/master/docs/tweet-box_3.png?raw=true))
