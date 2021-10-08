@@ -27,7 +27,3 @@ This repository is the starter code for the project: Students will fork and clon
 !["screenshot description"](https://github.com/CoffeeJitterz/tweeter/blob/master/docs/tweet-box_1.png?raw=true)
 
 !["screenshot description"](https://github.com/CoffeeJitterz/tweeter/blob/master/docs/tweet-box_2.png?raw=true)
-
-!["screenshot description"](https://github.com/CoffeeJitterz/tweeter/blob/master/docs/tweet-box_3.png?raw=true)
-
-!["screenshot description"](!["screenshot description"](https://github.com/CoffeeJitterz/tweeter/blob/master/docs/tweet-box_3.png?raw=true))
